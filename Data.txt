@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6Maj4.webp",
+            "title": "Parodileri Videos 1",
+            "text_Content_": "Create funny and exaggerated versions of popular movie scenes or trailers. Put a unique twist on well-known characters and storylines, injecting humor into the familiar"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6McZl.webp",
+            "title": "Parodileri Videos 2",
+            "text_Content_": "Rewrite the lyrics of popular songs to create funny and relatable parodies. These can be about everyday life, current events, or specific topics of interest"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6MYuf.webp",
+            "title": "Parodileri Videos 3",
+            "text_Content_": "Develop a series of videos where you impersonate famous celebrities and put them in comical situations. These can be spoofs of their interviews, talk show appearances, or even fictional scenarios"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6M5yG.webp",
+            "title": "Parodileri Videos 4",
+            "text_Content_": "Recreate scenes from popular TV shows with a humorous twist. Imagine what it would be like if your favorite characters were in absurd or unusual situations."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6Mu3X.webp",
+            "title": "Parodileri Videos 5",
+            "text_Content_": "Create parodies that comment on current political events or famous politicians. Be sure to keep it light-hearted and avoid crossing into offensive territory"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6MzGI.webp",
+            "title": "Parodileri Videos 6",
+            "text_Content_": "Make parodies of well-known commercials or create your own fictional products with outlandish advertisements"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6MAan.webp",
+            "title": "Parodileri Videos 7",
+            "text_Content_": "Gamers love humorous takes on their favorite video games. Create funny sketches or animations based on popular game titles or characters."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6MI4t.webp",
+            "title": "Parodileri Videos 8",
+            "text_Content_": "Combine different elements from various movies, TV shows, songs, or games to create unique mashup parodies that fans of multiple franchises will enjoy"
         }
     ]
 }
